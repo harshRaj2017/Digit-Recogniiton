@@ -14,19 +14,19 @@ Requirements : Python 3.5,sklearn,opencv,numpy,imutils
 
 > One of the Sample Image is as follows:
 
-![alt text](https://github.com/kaustubhdevkar/Handwritten-Digit-Recognition-Using-Deep-Learning/blob/master/sample_image.jpg)
+![alt text](https://github.com/harshRaj2017/Digit-Recogniiton/blob/main/sample_image.jpg)
 
 > Recognized digits are as Follows:
 
-![alt text](https://github.com/kaustubhdevkar/Handwritten-Digit-Recognition-Using-Deep-Learning/blob/master/result.jpg)
+![alt text](https://github.com/harshRaj2017/Digit-Recogniiton/blob/main/result.jpg)
 
 >Another sample image is ,
 
-![alt text](https://github.com/kaustubhdevkar/Handwritten-Digit-Recognition-Using-Deep-Learning/blob/master/sample_image2.jpg)
+![alt text](https://github.com/harshRaj2017/Digit-Recogniiton/blob/main/sample_image2.jpg)
 
 >Its result is:
 
-![alt text](https://github.com/kaustubhdevkar/Handwritten-Digit-Recognition-Using-Deep-Learning/blob/master/result2.jpg)
+![alt text](https://github.com/harshRaj2017/Digit-Recogniiton/blob/main/result2.jpg)
 
 
 > As we can see in above image ,one of our digit gets classified incorrectly!
